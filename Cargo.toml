@@ -1,0 +1,8 @@
+[package]
+name = "logql"
+version = "0.0.1"
+authors = ["Wisnu Adi Nurcahyo <wisn.adn@gmail.com>", "Ganesha Danu Enastika <ganeshadanu1@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+pest = "2.1.0"
